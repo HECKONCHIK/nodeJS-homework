@@ -9,7 +9,7 @@ const dbPath = join(__dirname, "database.json");
 const adapter = new FileSync(dbPath);
 const dbAdapter = Low(adapter);
 
-const DEFAULT_DB = { users: [], fighters: [], fights: [] };
+const DEFAULT_DB = { users: [], fighters: [], fights: [], battles: [] };
 
 dbAdapter.defaults(DEFAULT_DB).write();
 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bfd108c-2c27-4e2b-95f1-31234b52b174" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/fight/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/fight/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/startScreen/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/startScreen/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares/fighter.validation.middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/fighter.validation.middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares/response.middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/response.middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares/user.validation.middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/user.validation.middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/fighterRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/fighterRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/userRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/userRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/fighterService.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/fighterService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/userService.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/userService.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HECKONCHIK"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BinaryStudioAcademy/lecture-starter-nodejs.git",
+    "accountId": "6af1c498-3112-4a28-974d-a15fe85dceb2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3EYMj9w8GGPrCAjrt66Ebq8fxTs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bfd108c-2c27-4e2b-95f1-31234b52b174" name="Changes" comment="" />
+      <created>1780351184454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780351184454</updated>
+      <workItem from="1780351199676" duration="3842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
